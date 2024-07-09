@@ -1,0 +1,6 @@
+[book]
+authors = ["Ross"]
+language = "en"
+multilingual = false
+src = "src"
+title = "LeetCode Practising Docs"
