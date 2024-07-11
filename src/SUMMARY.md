@@ -1,3 +1,5 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+[Introduction](./README.md)
+
+- [Array And String](./ArrayAndString/README.md)
