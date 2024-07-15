@@ -8,3 +8,4 @@
   - [Remove Duplicates from Sorted Array](./ArrayAndString/RemoveDuplicatesFromSortedArray.md)
   - [Remove Duplicates from Sorted Array II](./ArrayAndString/RemoveDuplicatesFromSortedArrayII.md)
   - [Majority Element](./ArrayAndString/MajorityElement.md)
+  - [Rotate Array](./ArrayAndString/Rotate%20Array.md)
