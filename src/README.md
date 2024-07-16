@@ -1,6 +1,6 @@
 ## Introduction
 
-This is Docs about LeetCode Solutions which are written in Python(other programing language, maybe)
+This is Docs about LeetCode Solutions which are written in Python(other programming languages, maybe)
 
 - Github page : [www.jimmieluo.com/leetcode-docs](https://www.jimmieluo.com/leetcode-docs/)
 - Source page : [github.com/Ross249/leetcode-docs](https://github.com/Ross249/leetcode-docs)
