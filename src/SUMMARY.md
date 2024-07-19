@@ -27,3 +27,4 @@
 - [Matrix](./Matrix/README.md)
   - [Spiral Matrix](./Matrix/Spiral%20Matrix.md)
   - [Spiral Matrix II](./Matrix/Spiral%20Matrix%20II.md)
+  - [Rotate Image](./Matrix/Rotate%20Image.md)
