@@ -32,3 +32,4 @@
 - [Hashmap](./Hashmap/README.md)
   - [Two Sum](./Hashmap/Two%20Sum.md)
   - [Group Anagrams](./Hashmap/Group%20Anagrams.md)
+  - [Longest Consecutive Sequence](./Hashmap/Longest%20Consecutive%20Sequence.md)
