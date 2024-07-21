@@ -37,3 +37,4 @@
   - [Summary Ranges](./Intervals/Summary%20Ranges.md)
   - [Merge Intervals](./Intervals/Merge%20Intervals.md)
   - [Insert Interval](./Intervals/Insert%20Interval.md)
+  - [Minimum Number of Arrows to Burst Balloons](./Intervals/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md)
