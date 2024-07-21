@@ -36,3 +36,4 @@
 - [Intervals](./Intervals/README.md)
   - [Summary Ranges](./Intervals/Summary%20Ranges.md)
   - [Merge Intervals](./Intervals/Merge%20Intervals.md)
+  - [Insert Interval](./Intervals/Insert%20Interval.md)
