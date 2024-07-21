@@ -35,3 +35,4 @@
   - [Longest Consecutive Sequence](./Hashmap/Longest%20Consecutive%20Sequence.md)
 - [Intervals](./Intervals/README.md)
   - [Summary Ranges](./Intervals/Summary%20Ranges.md)
+  - [Merge Intervals](./Intervals/Merge%20Intervals.md)
