@@ -42,3 +42,4 @@
   - [Valid Parentheses](./Stack/Valid%20Parentheses.md)
   - [Simplify Path](./Stack/Simplify%20Path.md)
   - [Min Stack](./Stack/Min%20Stack.md)
+  - [Evaluate Reverse Polish Notation](./Stack/Evaluate%20Reverse%20Polish%20Notation.md)
