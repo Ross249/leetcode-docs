@@ -41,3 +41,4 @@
 - [Stack](./Stack/README.md)
   - [Valid Parentheses](./Stack/Valid%20Parentheses.md)
   - [Simplify Path](./Stack/Simplify%20Path.md)
+  - [Min Stack](./Stack/Min%20Stack.md)
