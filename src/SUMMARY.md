@@ -40,3 +40,4 @@
   - [Minimum Number of Arrows to Burst Balloons](./Intervals/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md)
 - [Stack](./Stack/README.md)
   - [Valid Parentheses](./Stack/Valid%20Parentheses.md)
+  - [Simplify Path](./Stack/Simplify%20Path.md)
