@@ -47,3 +47,4 @@
   - [Linked List Cycle](./Linked%20List/Linked%20List%20Cycle.md)
   - [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers.md)
   - [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists.md)
+  - [Copy List with Random Pointer](./Linked%20List/Copy%20List%20with%20Random%20Pointer.md)
