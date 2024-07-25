@@ -55,3 +55,4 @@
 - [Binary Tree](./Binary%20Tree/README.md)
   - [General](./Binary%20Tree/General/README.md)
     - [Symmetric Tree](./Binary%20Tree/General/Symmetric%20Tree.md)
+    - [Construct Binary Tree from Preorder and Inorder Traversal](./Binary%20Tree/General/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
