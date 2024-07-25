@@ -51,3 +51,4 @@
   - [LRU Cache](./Linked%20List/LRU%20Cache.md)
   - [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II.md)
   - [Remove Duplicates from Sorted List II](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List%20II.md)
+  - [Partition List](./Linked%20List/Partition%20List.md)
