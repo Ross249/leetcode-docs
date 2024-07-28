@@ -64,3 +64,4 @@
     - [Binary Tree Zigzag Level Order Traversal](./Binary%20Tree/BFS/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)
   - [BST](./Binary%20Tree/BST/README.md)
     - [Minimum Absolute Difference in BST](./Binary%20Tree/BST/Minimum%20Absolute%20Difference%20in%20BST.md)
+    - [Kth Smallest Element in a BST](./Binary%20Tree/BST/Minimum%20Absolute%20Difference%20in%20BST.md)
