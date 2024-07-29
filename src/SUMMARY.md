@@ -66,3 +66,6 @@
     - [Minimum Absolute Difference in BST](./Binary%20Tree/BST/Minimum%20Absolute%20Difference%20in%20BST.md)
     - [Kth Smallest Element in a BST](./Binary%20Tree/BST/Minimum%20Absolute%20Difference%20in%20BST.md)
     - [Validate Binary Search Tree](./Binary%20Tree/BST/Validate%20Binary%20Search%20Tree.md)
+- [Graph](./Graph/README.md)
+  - [General](./Graph/General/README.md)
+    - [Number of Islands](./Graph/General/Number%20of%20Islands.md)
