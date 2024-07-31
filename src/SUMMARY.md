@@ -75,3 +75,5 @@
   - [BFS](./Graph/BFS/README.md)
     - [Snakes and Ladders](./Graph/BFS/Snakes%20and%20Ladders.md)
     - [Word Ladder](./Graph/BFS/Word%20Ladder.md)
+- [Trie](./Trie/README.md)
+  - [Implement Trie (Prefix Tree)](<./Trie/Implement%20Trie%20(Prefix%20Tree).md>)
