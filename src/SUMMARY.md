@@ -84,3 +84,4 @@
   - [Word Search](./Backtracking/Word%20Search.md)
 - [Divide & Conquer](./Divide%20&%20Conquer/README.md)
   - [Sort List](./Divide%20&%20Conquer/Sort%20List.md)
+  - [Merge k Sorted Lists](./Divide%20&%20Conquer/Merge%20k%20Sorted%20Lists.md)
