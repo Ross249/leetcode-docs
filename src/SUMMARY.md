@@ -82,3 +82,4 @@
   - [Letter Combinations of a Phone Number](./Backtracking/Letter%20Combinations%20of%20a%20Phone%20Number.md)
   - [Combination Sum](./Backtracking/Combination%20Sum.md)
   - [Word Search](./Backtracking/Word%20Search.md)
+- [Divide & Conquer](./Divide%20&%20Conquer/README.md)
