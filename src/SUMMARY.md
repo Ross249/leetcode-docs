@@ -87,3 +87,5 @@
   - [Merge k Sorted Lists](./Divide%20&%20Conquer/Merge%20k%20Sorted%20Lists.md)
   - [Maximum Subarray](./Divide%20&%20Conquer/Maximum%20Subarray.md)
   - [Maximum Sum Circular Subarray](./Divide%20&%20Conquer/Maximum%20Sum%20Circular%20Subarray.md)
+- [Binary Search](./Binary%20Search/README.md)
+  - [Search a 2D Matrix](./Binary%20Search/Search%20a%202D%20Matrix.md)
