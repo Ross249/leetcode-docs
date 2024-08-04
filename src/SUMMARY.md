@@ -89,3 +89,4 @@
   - [Maximum Sum Circular Subarray](./Divide%20&%20Conquer/Maximum%20Sum%20Circular%20Subarray.md)
 - [Binary Search](./Binary%20Search/README.md)
   - [Search a 2D Matrix](./Binary%20Search/Search%20a%202D%20Matrix.md)
+  - [Search in Rotated Sorted Array](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array.md)
