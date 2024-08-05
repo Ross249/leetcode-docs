@@ -93,3 +93,4 @@
   - [Median of Two Sorted Arrays](./Binary%20Search/Median%20of%20Two%20Sorted%20Arrays.md)
 - [Heap](./Heap/README.md)
   - [Kth Largest Element in an Array](./Heap/Kth%20Largest%20Element%20in%20an%20Array.md)
+  - [Find Median from Data Stream](./Heap/Find%20Median%20from%20Data%20Stream.md)
