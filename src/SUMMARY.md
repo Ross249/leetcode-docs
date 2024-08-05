@@ -91,3 +91,5 @@
   - [Search a 2D Matrix](./Binary%20Search/Search%20a%202D%20Matrix.md)
   - [Search in Rotated Sorted Array](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array.md)
   - [Median of Two Sorted Arrays](./Binary%20Search/Median%20of%20Two%20Sorted%20Arrays.md)
+- [Heap](./Heap/README.md)
+  - [Kth Largest Element in an Array](./Heap/Kth%20Largest%20Element%20in%20an%20Array.md)
