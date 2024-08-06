@@ -97,3 +97,4 @@
   - [Find K Pairs with Smallest Sums](./Heap/Find%20K%20Pairs%20with%20Smallest%20Sums.md)
 - [Bit Manipulation](./Bit%20Manipulation/README.md)
   - [Single Number](./Bit%20Manipulation/Single%20Number.md)
+  - [Single Number II](./Bit%20Manipulation/Single%20Number%20II.md)
