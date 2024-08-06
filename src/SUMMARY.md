@@ -95,3 +95,5 @@
   - [Kth Largest Element in an Array](./Heap/Kth%20Largest%20Element%20in%20an%20Array.md)
   - [Find Median from Data Stream](./Heap/Find%20Median%20from%20Data%20Stream.md)
   - [Find K Pairs with Smallest Sums](./Heap/Find%20K%20Pairs%20with%20Smallest%20Sums.md)
+- [Bit Manipulation](./Bit%20Manipulation/README.md)
+  - [Single Number](./Bit%20Manipulation/Single%20Number.md)
