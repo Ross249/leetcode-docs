@@ -98,3 +98,5 @@
 - [Bit Manipulation](./Bit%20Manipulation/README.md)
   - [Single Number](./Bit%20Manipulation/Single%20Number.md)
   - [Single Number II](./Bit%20Manipulation/Single%20Number%20II.md)
+- [Math](./Math/README.md)
+  - [Factorial Trailing Zeroes](./Math/Factorial%20Trailing%20Zeroes.md)
