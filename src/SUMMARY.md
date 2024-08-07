@@ -101,3 +101,6 @@
 - [Math](./Math/README.md)
   - [Factorial Trailing Zeroes](./Math/Factorial%20Trailing%20Zeroes.md)
   - [Pow(x, n)](<./Math/Pow(x,%20n).md>)
+- [Dynamic Programming](./Dynamic%20Programming/README.md)
+  - [1 D](./Dynamic%20Programming/1%20D/README.md)
+    - [House Robber](./Dynamic%20Programming/1%20D/House%20Robber.md)
