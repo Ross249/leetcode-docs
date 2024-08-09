@@ -106,3 +106,5 @@
     - [House Robber](./Dynamic%20Programming/1%20D/House%20Robber.md)
     - [Coin Change](./Dynamic%20Programming/1%20D/Coin%20Change.md)
     - [Word Break](./Dynamic%20Programming/1%20D/Word%20Break.md)
+  - [Multi Ds](./Dynamic%20Programming/Multi%20Ds/README.md)
+    - [Minimum Path Sum](./Dynamic%20Programming/Multi%20Ds/Minimum%20Path%20Sum.md)
