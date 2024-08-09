@@ -108,3 +108,4 @@
     - [Word Break](./Dynamic%20Programming/1%20D/Word%20Break.md)
   - [Multi Ds](./Dynamic%20Programming/Multi%20Ds/README.md)
     - [Minimum Path Sum](./Dynamic%20Programming/Multi%20Ds/Minimum%20Path%20Sum.md)
+    - [Longest Palindromic Substring](./Dynamic%20Programming/Multi%20Ds/Longest%20Palindromic%20Substring.md)
