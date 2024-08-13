@@ -115,3 +115,4 @@
     - [Best Time to Buy and Sell Stock IV](./Dynamic%20Programming/Multi%20Ds/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.md)
     - [Triangle](./Dynamic%20Programming/Multi%20Ds/Triangle.md)
     - [Unique Paths II](./Dynamic%20Programming/Multi%20Ds/Unique%20Paths%20II.md)
+    - [Maximal Square](./Dynamic%20Programming/Multi%20Ds/Maximal%20Square.md)
