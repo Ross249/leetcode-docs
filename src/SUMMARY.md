@@ -14,6 +14,7 @@
   - [Jump Game](./ArrayAndString/Jump%20Game.md)
   - [Jump Game II](./ArrayAndString/Jump%20Game%20II.md)
   - [H-Index](./ArrayAndString/H-Index.md)
+  - [Trapping Rain Water](./ArrayAndString/Trapping%20Rain%20Water.md)
 - [Two Pointers](./Two%20Pointers/README.md)
   - [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome.md)
   - [Is Subsequence](./Two%20Pointers/Is%20Subsequence.md)
